@@ -24,6 +24,10 @@ Alternatively, in Manage Note Types, hit Add and use Lapis as a base note type. 
 
 ![Frappe](/img/frappe.jpg)
 
+### Latte
+
+![Latte](/img/latte.jpg)
+
 ## Notes
 
 This was made with release 1.5.0 of the Lapis note type, which is the most recent as of release. Exercise caution if using a different version. 
