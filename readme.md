@@ -14,15 +14,15 @@ Alternatively, in Manage Note Types, hit Add and use Lapis as a base note type. 
 
 ### Mocha
 
-![Mocha](/img/mocha.png)
+![Mocha](/img/mocha.jpg)
 
 ### Macchiato
 
-![Macchiato](/img/macchiato.png)
+![Macchiato](/img/macchiato.jpg)
 
 ### Frappe
 
-![Frappe](/img/frappe.png)
+![Frappe](/img/frappe.jpg)
 
 ## Notes
 
