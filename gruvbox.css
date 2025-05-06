@@ -4,16 +4,16 @@
     --light-mode-fg-color: #3c3836;
 
     /* Pitch colors */
-    --dark-mode-heiban: #458588;
-    --dark-mode-atamadaka: #cc241d;
-    --dark-mode-nakadaka: #d65d0e;
-    --dark-mode-odaka: #98971a;
-    --dark-mode-kifuku: #b16286;
-    --light-mode-heiban: #458588;
-    --light-mode-atamadaka: #cc241d;
-    --light-mode-nakadaka: #d65d0e;
-    --light-mode-odaka: #98971a;
-    --light-mode-kifuku: #b16286;
+    --dark-mode-heiban: #83a598;
+    --dark-mode-atamadaka: #fb4934;
+    --dark-mode-nakadaka: #fe8019;
+    --dark-mode-odaka: #b8bb26;
+    --dark-mode-kifuku: #d3869b;
+    --light-mode-heiban: #075578;
+    --light-mode-atamadaka: #9d0006;
+    --light-mode-nakadaka: #af3a03;
+    --light-mode-odaka: #79740e;
+    --light-mode-kifuku: #8f3f71;
 
     /* Bold color */
     --light-mode-bold: #928374;
@@ -76,8 +76,8 @@
 }
 
 .android .nightMode {
-    --bg-color: #1e1e2e;
-    --fg-color: #cdd6f4;
+    --bg-color: #282828;
+    --fg-color: #ebdbb2;
 }
 
 .android .nightMode:not(.ankidroid_dark_mode) {
