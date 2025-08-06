@@ -2,7 +2,7 @@
 
 Simple CSS files containing recolors of the [Lapis Anki Note Type](https://github.com/donkuri/lapis).  Palettes used:
 
-- [Catpuccin](https://catppuccin.com/palette/)
+- [Catppuccin](https://catppuccin.com/palette/)
 - [Rosé Pine](https://rosepinetheme.com/palette/)
 - [Gruvbox](https://github.com/morhetz/gruvbox)
 - [Cyberpunk 2077](https://www.deviantart.com/cdixon13/art/CyberPunk-2077-Palette-879017278)
@@ -62,5 +62,6 @@ The only thing changed is color codes in CSS so as long as the version of these 
 I will try to keep these files updated along with the Lapis note type, but please keep in mind updating Lapis without updating these files will likely break your cards.
 
 For issues with these files please contact me (open issue or ping ccos on TMW) rather than the Lapis maintainers.
+
 
 Contributors welcome for addt'l themes (submit PR).
