@@ -77,7 +77,7 @@
 .card.nightMode {
   --bg-color: #191724; /* Base */
   --fg-color: #e0def4; /* Text */
-  --bg-elevated: #524f67; /* Highlight High */
+  --bg-elevated: #1f1d2e; /* Surface */
   --bg-inset: #908caa; /* Subtle */
   --fg-subtle: #908caa; /* Subtle */
 
@@ -138,7 +138,7 @@
 
 .android .nightMode:not(.ankidroid_dark_mode) {
   /* make it brighter since bg is black */
-  --bg-elevated: #524f67; /* Highlight High */
+  --bg-elevated: #1f1d2e; /* Surface */
 }
 
 .android .nightMode.ankidroid_dark_mode {
@@ -154,7 +154,7 @@
   --odaka: var(--light-mode-odaka, initial);
   --kifuku: var(--light-mode-kifuku, initial);
 
-  --bg-elevated: #cecacd; /* Highlight High */
+  --bg-elevated: #fffaf3; /* Surface */
   --bg-inset: #797593; /* Subtext 1 */
   --fg-subtle: #797593; /* Subtext 1 */
   --bold: var(--light-mode-bold, #999999);
