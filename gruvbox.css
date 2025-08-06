@@ -1,11 +1,11 @@
 :root {
   /* Color theme */
   --light-mode-bg-color: #f5f9d7;
-  --light-mode-fg-color: #3c3836;
+  --light-mode-fg-color: #3c3836; /*Text color*/
 
   /* Bold color */
-  --light-mode-bold: #928374;
-  --dark-mode-bold: #a89984;
+  --light-mode-bold: #689d6a;
+  --dark-mode-bold: #8ec07c;
 
   /* PC Font sizes */
   --pc-main-font-size: 16px;
