@@ -47,11 +47,11 @@ Alternatively, in Manage Note Types, hit Add and use Lapis as a base note type. 
 
 ### Gruvbox (Dark Mode)
 
-![Gruvbox_Dark](/img/gruvd.jpg)
+![Gruvbox_Dark](/img/gruvbox-dark.png)
 
 ### Gruvbox (Light Mode)
 
-![Gruvbox_Light](/img/gruvl.jpg)
+![Gruvbox_Light](/img/gruvbox-light.png)
 
 ### Tokyo Night (Dark Mode)
 
