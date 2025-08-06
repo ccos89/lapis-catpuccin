@@ -11,13 +11,15 @@ The CSS files are named after the palette.  For palettes having a light mode (Ca
 
 **Now Updated to Lapis+ Note Type (v1.6.0)**
 
+Use with other versions of Lapis is likely to break your cards. Please report any bugs to me/this repository and not to the Lapis maintainers, as this is not an officially supported addon. 
+
 ## Installation
 
 Choose which variant you want and copy all the CSS from the file.  In Anki, go to Manage Note Types -> Cards -> Styling and replace all the CSS there with the CSS from this repo.
 
 Alternatively, in Manage Note Types, hit Add and use Lapis as a base note type. You can clone it multiple times in this way and have access to all recolors you like as separate note types that you can easily switch between.  Changing note type is seamless between the recolors.
 
-The only thing changed is color codes in CSS so as long as the version of these recolors and the version of your Lapis note are the same, nothing will break.
+The only thing changed is color codes in CSS so as long as the version of these recolors and the version of your Lapis note are the same, nothing should break.
 
 ## Examples
 
@@ -59,9 +61,9 @@ The only thing changed is color codes in CSS so as long as the version of these 
 
 ## Notes
 
-I will try to keep these files updated along with the Lapis note type, but please keep in mind updating Lapis without updating these files will likely break your cards.
+I will try to keep these files updated along with the Lapis note type, but please keep in mind updating Lapis without updating these files will likely break your cards. This is avoidable by waiting to update your Lapis version until I can patch these, or by using the default theme they provide in the meantime. 
 
-For issues with these files please contact me (open issue or ping ccos on TMW) rather than the Lapis maintainers.
-
+For issues with these files please contact me by preferably opening an issue, or pinging me on TMW. 
 
 Contributors welcome for addt'l themes (submit PR).
+
